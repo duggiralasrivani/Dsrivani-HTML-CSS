@@ -1,0 +1,50 @@
+
+
+.formsec
+{
+    background-color: #808080;
+}
+.header
+{
+    background-color:#33C7FF;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;    
+    padding-top: 20px;
+    font-weight: bold;
+    
+}
+
+
+.ab
+{
+	background-color:#33C7FF;
+	color: white;
+    text-align: center;
+    width: 350px;
+    height: 40px;
+      font-weight: bold;
+    
+    
+}
+.btn
+{
+	background-color:#c0c0c0;
+    text-align: center;
+    width: 350px;
+}
+#a1
+{
+    color:  #808080;
+    margin-right: 110px;
+}
+#a2
+{
+    color:#808080;
+    margin-left: 10px;
+}
+.container
+{
+margin-top: 20px;    
+}
